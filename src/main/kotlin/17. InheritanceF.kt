@@ -1,3 +1,6 @@
+//Memanggil property dan fungsi dari kelas induk
+//Ketika kita meng-override property atau fungsi anggota kelas dari kelas induk, maka dari kelas anak kita dapat mengakses property atau fungsi anggota dari kelas induknya.
+
 open class EmployeeF {
     open val baseSalary: Double = 10000.0
     open fun displayDetails() {

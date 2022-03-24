@@ -1,3 +1,5 @@
+// program destructing declarations menggunakan componentN() method
+
 fun main() {
     val meri = Student("Meri", 20)
     // Destructuring Declaration with componentN() method

@@ -1,3 +1,6 @@
+//Ketika multiple interface memiliki method yang sama maka untuk memecahkan masalah
+//tersebut pada kelas yang mengimplementasikan interface tersebut ditambah keyword super.
+
 interface A {
     fun demo() {
         println("From interface A")

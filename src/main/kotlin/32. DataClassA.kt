@@ -1,3 +1,6 @@
+//. Di Kotlin kita tidak perlu menulis atau men-generate semua data kelas seperti method Getter dan Setter di
+//Java, Kotlin telah men-generate secara otomatis fungsi Getter dan Setter pada setiap anggota kelas.
+
 data class Student(val name: String, val age: Int)
 fun main() {
     val boni = Student("Boni", 21)

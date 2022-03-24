@@ -1,3 +1,5 @@
+//Data class hashCode() and equals() methods
+
 fun main() {
     val boni = Student("Boni", 21)
     val newBoni = Student("Boni", 21)

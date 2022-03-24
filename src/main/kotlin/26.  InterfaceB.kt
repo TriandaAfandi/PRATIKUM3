@@ -1,3 +1,5 @@
+//Interface Inheritance
+
 interface Named {
     val name: String
 }

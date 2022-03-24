@@ -1,3 +1,6 @@
+//Overriding Property
+//Sama halnya seperti fungsi, property di Kotlin pada kelas induk dapat di override dengan menggunakan akses modifier open
+
 import java.text.NumberFormat
 import java.util.*
 open class EmployeeD {

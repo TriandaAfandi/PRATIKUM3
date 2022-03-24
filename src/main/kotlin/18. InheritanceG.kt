@@ -1,3 +1,7 @@
+//Menurunkan urutan inisialisasi kelas turunan
+//Selama pembuatan sebuah instance baru dari kelas turunan, inisialisasi kelas induk diselesaikan terlebih dahulu pada langkah pertama (hanya mendahulukan evaluasi dari argument untuk
+//konstruktor kelas induk) dan demikian terjadi sebelum inisialisasi logika dari kelas turunan yang berjalan.
+
 open class Base(val name: String) {
     init {
         println("Initializing Base")

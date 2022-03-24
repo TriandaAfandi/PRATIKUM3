@@ -1,3 +1,5 @@
+//Konstruktor tambahan bisa didefenisikan lebih dari satu.
+
 class PersonE {
     var firstName: String
     var lastName: String

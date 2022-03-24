@@ -1,3 +1,5 @@
+// secondary constructor yang di inisialisasi kelas induk dipanggil dengan keyword super secara langsung atau mendelegasikan ke konstruktor yang lain
+
 // Child class (initializes the parent class)
 class LaptopB : Computer{
     val batteryLife: Double

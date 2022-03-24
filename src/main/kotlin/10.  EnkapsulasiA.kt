@@ -1,3 +1,6 @@
+//Enkapsulasi adalah konsep OOP yang memungkinkan kita untuk menyembunyikan informasi
+//dari suatu kelas sehingga anggota-anggota kelas tersebut tidak bisa diakses dari luar.
+
 class Employee(_id: Int, _name: String, _age: Int) {
     val id: Int = _id
         get() = field

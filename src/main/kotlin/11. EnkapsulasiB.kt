@@ -1,3 +1,6 @@
+//jika kita menggunakan property secara langsung didalam method getter dan setter
+// maka kita akan memanggil program secara rekursif dan menyebabkan error StackOverflowError.
+
 class EmployeeA(_id: Int, _name: String, _age: Int) {
     val id: Int = _id
         get() = field

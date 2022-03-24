@@ -1,3 +1,6 @@
+//Overriding Function
+//Kotlin membutuhkan eksplisit akses modifier untuk meng-override fungsi pada kelas induk yaitu akses modifier open.
+
 open class Teacher {
     // Must use "open" modifier to allow child classes to override it
     open fun teach() {

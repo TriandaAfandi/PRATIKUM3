@@ -1,3 +1,9 @@
+//Jenis visibility modifier yaitu:
+//public
+// private
+// protected
+// internal
+
 //Private
 private class privateExample {
     private val i = 1

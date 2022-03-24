@@ -1,3 +1,6 @@
+//Overriding Property’s Getter/Setter method
+//Kita dapat meng-override property kelas menggunakan inisialisasi atau menggunakan custom setter dan getter function.
+
 open class NewPerson {
     open var age: Int = 1
 }

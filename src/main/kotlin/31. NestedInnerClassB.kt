@@ -1,3 +1,5 @@
+//membuat sebuah objek interface menggunakan objek runtime dikenal sebagai anonymous class.
+
 fun main() {
     // creating an instance of the interface
     var programmer: Human = object : Human {

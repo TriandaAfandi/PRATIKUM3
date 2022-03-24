@@ -1,3 +1,5 @@
+//menginisialisasi kelas induknya di bagian kanan kelas header dengan melewatkan parameter ke primary constructor nya.
+
 // Parent class
 open class Computer(val name: String,
                     val brand: String) {

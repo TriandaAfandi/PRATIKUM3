@@ -1,3 +1,5 @@
+//dapat digunakan untuk menginisialisasi property yang dideklarasikan dalam tubuh kelas.
+
 class PersonA (_firstName: String, _lastName: String, _age: Int) {
     var firstName:String
     var lastName:String

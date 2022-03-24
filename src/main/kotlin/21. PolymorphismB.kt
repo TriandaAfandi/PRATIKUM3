@@ -1,3 +1,5 @@
+//Dynamic Polymorphism (Overriding Function)
+
 open class MyBase {
     // Must use "open" modifier to allow child classes to override it
     open fun think () {

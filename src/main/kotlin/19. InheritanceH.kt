@@ -1,3 +1,5 @@
+//Untuk menunjukan supertype dari kelas yang diwarisi oleh anggota dapat dilakukan dengan menggunakan keyword super<Base>.
+
 open class Rectangle {
     open fun draw() {
         println("From Base Class Rectangle")

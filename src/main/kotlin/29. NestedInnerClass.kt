@@ -1,3 +1,5 @@
+//sebuah kelas dideklarasikan didalam kelas lain, maka ia disebut dengan nested class.
+
 class Outer {
     val a = "Outside Nested class."
     class Nested {

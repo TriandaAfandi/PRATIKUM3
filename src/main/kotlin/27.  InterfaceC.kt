@@ -1,3 +1,5 @@
+//kode program implementasi suatu kelas yang memiliki multiple interface
+
 interface X {
     fun demoX() {
         println("demoX function")

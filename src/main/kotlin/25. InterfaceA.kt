@@ -1,3 +1,5 @@
+//abstrak jika ia tidak memiliki tubuh, tetapi keyword juga tidak dibutuhkan. Implementasi Interface
+
 interface MyInterface{
     var str: String
     fun demo()

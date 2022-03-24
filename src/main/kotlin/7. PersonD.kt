@@ -1,3 +1,5 @@
+//Konstruktor tambahan (secondary constructor) didefenisikan didalam tubuh kelas.
+
 class PersonD {
     var firstName: String
     var lastName: String

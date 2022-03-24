@@ -1,3 +1,5 @@
+//Data class copy() method
+
 fun main(){
     val meri = Student("Meri", 20)
     val badu = meri.copy("Badu")

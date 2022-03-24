@@ -1,3 +1,5 @@
+//Inner class adalah nested class yang memiliki kata kunci inner dalam pendeklarasiannya.
+
 class OuterA {
     val a = "Outside Nested class."
     inner class Inner {
